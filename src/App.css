@@ -1,8 +1,17 @@
-.App {
+.App h1 {
   text-align: center;
   color: red;
 }
-
+.App h2{
+  text-align: center;
+  color: blue;
+}
+.App label{
+  color: darkgoldenrod;
+}
+.App progress {
+  text-align: left;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
